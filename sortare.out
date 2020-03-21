@@ -1,0 +1,40 @@
+Avem de sortat 1000000 numere  cu valoarea maxima de 1000000
+MergeSort a sortat corect in 187467.000000000000000
+QuickSort a sortat corect in 171837.000000000000000
+CountSort a sortat corect in 15615.000000000000000
+BubbleSort nu poate sorta deoarece sunt prea multe numere
+StlSort a sortat corect in 218755.000000000000000
+RadixSort a sortat corect in 109320.000000000000000
+
+Avem de sortat 1000000 numere  cu valoarea maxima de 1000
+MergeSort a sortat corect in 140596.000000000000000
+QuickSort a sortat corect in 1231637.000000000000000
+CountSort a sortat corect in 0.000000000000000
+BubbleSort nu poate sorta deoarece sunt prea multe numere
+StlSort a sortat corect in 171839.000000000000000
+RadixSort a sortat corect in 113717.000000000000000
+
+Avem de sortat 1000000 numere  cu valoarea maxima de 100000005
+MergeSort a sortat corect in 171837.000000000000000
+QuickSort a sortat corect in 156211.000000000000000
+CountSort nu poate sorta deoarece val_max este prea mare sau apar numere negative
+BubbleSort nu poate sorta deoarece sunt prea multe numere
+StlSort a sortat corect in 203033.000000000000000
+RadixSort a sortat corect in 109349.000000000000000
+
+Avem de sortat 1000000 numere  cu valoarea maxima de 100005
+MergeSort a sortat corect in 171879.000000000000000
+QuickSort a sortat corect in 171856.000000000000000
+CountSort a sortat corect in 15619.000000000000000
+BubbleSort nu poate sorta deoarece sunt prea multe numere
+StlSort a sortat corect in 203058.000000000000000
+RadixSort a sortat corect in 109345.000000000000000
+
+Avem de sortat 1000 numere  cu valoarea maxima de 1000000005
+MergeSort a sortat corect in 0.000000000000000
+QuickSort a sortat corect in 0.000000000000000
+CountSort nu poate sorta deoarece val_max este prea mare sau apar numere negative
+BubbleSort a sortat corect in 15622.000000000000000
+StlSort a sortat corect in 0.000000000000000
+RadixSort a sortat corect in 0.000000000000000
+
